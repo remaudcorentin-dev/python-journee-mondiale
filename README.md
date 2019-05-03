@@ -17,10 +17,10 @@ Very useful Python API to get the World Day(s)
 from journeemondiale import JourneeMondiale
 
 JourneeMondiale.get()  # Will use the current date
-# ["Journée Mondiale de ..."]
+# ['Journée du soleil', 'Journée Mondiale de la liberté de la presse']
 
 JourneeMondiale.get("26-04")  # Or use a date format 'dd-mm'
-# ["Journée Mondiale de ...", "Journée Mondiale du ..."]
+# ['Journée Mondiale de la propriété intellectuelle']
 ```  
 
 Life is fun :)  
