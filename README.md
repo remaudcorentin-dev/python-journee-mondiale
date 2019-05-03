@@ -1,5 +1,5 @@
 # python-journee-mondiale
-##### v0.1
+##### v0.0.1
 
 Very useful Python API to get the World Day(s)  
 (French version)
