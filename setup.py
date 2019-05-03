@@ -2,11 +2,11 @@
 from setuptools import setup
 
 setup(
-	name='python-marmiton',
-	version='0.3.1',
-	description='Easy-to-use Python API for the marmiton.com cooking website.',
-	packages=['marmiton'],
-	url='https://github.com/remaudcorentin-dev/python-marmiton',
+	name='python-journee-mondiale',
+	version='0.0.1',
+	description='Very useful Python API To get World Days',
+	packages=['journeemondiale'],
+	url='https://github.com/remaudcorentin-dev/python-journee-mondiale',
 	author='Corentin Remaud',
 	author_email='remaudcorentin.dev@gmail.com',
 	license='MIT',
